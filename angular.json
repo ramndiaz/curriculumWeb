@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "portafolio-angular"
+  "defaultProject": "portafolio-angular",
+  "cli": {
+    "analytics": false
+  }
 }
